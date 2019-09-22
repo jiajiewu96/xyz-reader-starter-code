@@ -26,6 +26,7 @@ android {
 
 dependencies {
     def androidXVersion = "1.0.0"
+    implementation "com.google.android.material:material:$androidXVersion"
     implementation "androidx.legacy:legacy-support-v4:$androidXVersion"
     implementation "androidx.legacy:legacy-support-v13:$androidXVersion"
     implementation "androidx.appcompat:appcompat:$androidXVersion"

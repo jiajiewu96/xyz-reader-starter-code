@@ -17,8 +17,11 @@
 
 <resources>
 
-    <style name="Theme.Bacon" parent="@style/Theme.MaterialComponents.NoActionBar">
+    <style name="Theme.Bacon" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:fontFamily">@font/roboto</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
 
     <style name="Theme.Bacon.Detail">

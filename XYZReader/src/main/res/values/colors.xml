@@ -22,7 +22,8 @@
     <color name="colorPrimaryDark">#087f23</color>
     <color name="colorPrimaryLight">#80e27e</color>
     <color name="colorAccent">#af4cac</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="lightText">#ffe0e0e0</color>
+    <color name="whiteText">#F3FFFFFF</color>
     <color name="accentText">#C0C0C0</color>
     <color name="primaryText">#212121</color>
     <color name="secondaryText">#727272</color>
